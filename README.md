@@ -6,7 +6,7 @@
  Repository for Resources and Code used in Dehradun School of AI Workshops and Meetups
 </p>
 
-## Workshop 1 | Coding Blocks
+## Workshop 1 | Machine Learning Workshop |@Coding Blocks
 
 Resource Person : Sanket Singh<br>
 Details : Covering Basic concepts of Machine Learning and Python. Implementation of k-NN Algorithm, and Facial recognization using k-NN. 
