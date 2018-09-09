@@ -16,7 +16,3 @@ Resource Person : Sanket Singh<br>
 Details : Covering Basic concepts of Machine Learning and Python. Implementation of k-NN Algorithm, and Facial recognization using k-NN. 
 
 Check the Notebook [here.]()
-
-<p align="center">
-  <img src="https://github.com/Avik-Jain/School-of-AI/blob/master/graphics/Flyer.jpg">
-</p>
