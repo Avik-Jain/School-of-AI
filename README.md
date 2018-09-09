@@ -1,10 +1,10 @@
-# School-of-AI
+
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Avik-Jain/School-of-AI/blob/master/graphics/School%20of%20ai%20inverse%20logo.png">
 </p>
-
-Repository for Resources and Code used in Dehradun School of AI Workshops and Meetups
-
+<p align="center">
+ Repository for Resources and Code used in Dehradun School of AI Workshops and Meetups
+</p>
 
 ## Workshop 1 | Coding Blocks
 
