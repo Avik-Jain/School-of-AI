@@ -13,6 +13,6 @@
 </p>
 
 Resource Person : Sanket Singh<br>
-Details : Covering Basic concepts of Machine Learning and Python. Implementation of k-NN Algorithm, and Facial recognization using k-NN. 
+Details : Covering Basic concepts of Machine Learning and Python. Implementation of k-NN Algorithm, and Facial recognition using k-NN. 
 
 Check the Notebook [here.]()
